@@ -27,13 +27,13 @@ When your new project is ready for deployment, add a new Heroku application with
 
 ## Node Modules Installed
 
-Dependicies
+# Dependicies
 * express
 * morgan
 * cors
 * helmet
 * dotenv
-DevDependecies
+# DevDependecies
 * mocha
 * chai
 * supertest
